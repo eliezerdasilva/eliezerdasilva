@@ -1,0 +1,54 @@
+# GitHub Action para gerar um gráfico de contribuição com uma cobra comendo suas contribuições.
+
+nome : Gerar Serpente
+
+# Controla quando a ação será executada. Esta ação é executada a cada 6 horas.
+
+em :
+  cronograma :
+      # a cada 6 horas
+-cron     : " 0 */6 * * * "
+
+# Este comando nos permite executar a Ação automaticamente na aba Ações.
+  workflow_dispatch :
+
+# A sequência de execuções neste fluxo de trabalho:
+empregos :
+  # Este fluxo de trabalho contém um único trabalho chamado "build"
+  construir :
+    # O tipo de executor em que o trabalho será executado
+    run-on : ubuntu-latest
+
+    # Etapas representam uma sequência de tarefas que serão executadas como parte do trabalho
+    passos :
+
+    # Verifica o repositório em $GITHUB_WORKSHOP, para que seu trabalho possa acessá-lo
+      - usa : actions/checkout@v2
+
+    # Gera a cobra  
+      - usa : Platane/snk@master
+        id : cobra-gif
+        com :
+          github_user_name : eliezerdasilva
+          # essas próximas 2 linhas geram os arquivos em um branch chamado "output". Isso evita que o branch principal fique confuso.
+          gif_out_path : dist/github-contribution-grid-snake.gif
+          svg_out_path : dist/github-contribution-grid-snake.svg
+
+     # mostra o status da compilação. Facilita a depuração (se houver algum problema).
+      - executar : git status
+
+      # Empurre as alterações
+      - nome : Empurre alterações
+        usa : ad-m/github-push-action@master
+        com :
+          github_token : ${{ secrets.GITHUB_TOKEN }}
+          ramo : mestre
+          força : verdade
+
+      - usa : crazy-max/ghaction-github-pages@v2.1.3
+        com :
+          # a ramificação de saída que mencionamos acima
+          target_branch : saída
+          build_dir : dist
+        ambiente :
+          GITHUB_TOKEN : ${{ secrets.GITHUB_TOKEN }}
