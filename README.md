@@ -1,19 +1,19 @@
 ### Opa! 👋🖥️🎸
 
-😎— Sou Eliézer da Silva, tenho 17 ano e estou cursando TI no ifsc, com o desenvolvimento em Java para dekstop e Banco de dados sql. 
-🤟— Atualmente  estou estudando a parte PHP, CSS e HTML  para ter um conhecimento mais amplo em desenvolvimento para web.
-💪-Nas minhas horas vagas jogo futebol, vou para academia e toco violão.
-🪐— Conhecimento na linguagem C, e desenvolvimento web para java porem sem profundamento
+😎— Sou Eliézer da Silva, tenho 17 ano e estou cursando TI no ifsc, com o desenvolvimento em Java para dekstop e Banco de dados sql. <br>
+🤟— Atualmente  estou estudando a parte PHP, CSS e HTML  para ter um conhecimento mais amplo em desenvolvimento para web.<br>
+💪-Nas minhas horas vagas jogo futebol, vou para academia e toco violão.<br>
+🪐— Conhecimento na linguagem C, e desenvolvimento web para java porem sem profundamento<br>
 <div >
   <a href="https://github.com/eliezerdasilva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eliezerdasilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliezerdasilva&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<img align="center" alt="Eli" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img align="center" alt="Eli" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-<img align="center" alt="Eli" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img align="center" alt="Eli" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align="center" alt="Eli" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img align="center" alt="Eli-My" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img align="center" alt="Eli-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+<img align="center" alt="Eli-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img align="center" alt="Eli-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img align="center" alt="Eli-c" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 
 
  ##
