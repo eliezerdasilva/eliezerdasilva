@@ -1,7 +1,7 @@
 # Opa! 👋🖥️🎸
 
 <br>
-😎— Sou Eliézer da Silva, tenho 18 ano e estou cursando TI no ifsc, no desenvolvimento de sistemas Java para dekstop, PHP para sistemas web com  Banco de dados sql. <br>
+😎— Sou Eliézer da Silva, tenho 18 ano e estou cursando TI no ifsc, no desenvolvimento de sistemas Java para dekstop e PHP para web integrados ao banco de dados MySQL. <br>
 🤟— Atualmente  estou estudando a parte PHP, CSS e HTML  para ter um conhecimento mais amplo em desenvolvimento para web.<br>
 💪- Nas minhas horas vagas jogo futebol, vou para academia e toco violão.<br>
 🪐— Conhecimento na linguagem C, e desenvolvimento web para java porem sem profundamento<br><br>
