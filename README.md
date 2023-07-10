@@ -39,9 +39,21 @@ I am a dedicated person, with commitment and passion for what I do. I am always 
  ##
 <div> 
  <p>
-  <img align="center" href="https://www.instagram.com/3liezer_li/" target="_blank"><img height="40" width="150"  src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  <img align="center"  href="https://www.linkedin.com/in/eli%C3%A9zer-silva-835b45242/" target="_blank"><img height="40" width="150" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- </p>
-  
+   <a href="https://www.instagram.com/3liezer_li/">
+ <img height="40" width="150"  src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+   </a>
+   <a href="www.linkedin.com/in/
+eliezer-da-silva
+">
+     <img height="40" width="150" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+   </a>
+ 
+<a href="mailto:eliezerdasilva2005@gmail.com">
+  <img height="40" width="150"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+</a>
 
+
+
+
+ </p>
   </div>
