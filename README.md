@@ -42,9 +42,7 @@ I am a dedicated person, with commitment and passion for what I do. I am always 
    <a href="https://www.instagram.com/3liezer_li/">
  <img height="40" width="150"  src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
    </a>
-   <a href="www.linkedin.com/in/
-eliezer-da-silva
-">
+   <a href="https://www.linkedin.com/in/eliezer-da-silva/">
      <img height="40" width="150" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
    </a>
  
