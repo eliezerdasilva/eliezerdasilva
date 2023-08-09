@@ -1,10 +1,11 @@
 # Opa! 👋🖥️🎸
 
 <br>
-Eliézer da Silva, I'm 18 years old, I'm a technology enthusiast and a computer science student at IFSC. My learning focuses on the development of Java systems for the desktop and PHP for the web, integrating with a MySQL database. I have an infinite passion for the world of programming, and I'm always looking to learn and update myself.
+My name is Eliézer da Silva, I'm 18 years old, I'm a technology enthusiast and I recently graduated as a computer technician from the IFSC. My learning is focused on systems development, Java for desktop and web applications. I have an infinite passion for the world of programming and I'm always looking to learn and update myself.
 
-In addition to the professional technician, I also take full-stack training in Java using the +devs2blu program. This opportunity allowed me to improve my skills and knowledge in this area.
-I am a dedicated person, with commitment and passion for what I do. I am always looking for challenges that allow me to grow professionally and contribute in the technical field. I believe that my relentless pursuit of learning and my willingness to stay informed about the latest news in the industry make my career prospects promising. I am ready to take on the challenges that arise and use my skills and knowledge to add value.
+I am also currently enrolled in a full-stack Java training program called +devs2blu. This opportunity allowed me to improve my skills and knowledge in this area. I am a dedicated person, committed and passionate about what I do. I am always looking for challenges that allow me to grow professionally and contribute to the technical field.
+
+I firmly believe that my relentless pursuit of learning and my willingness to stay informed on the latest trends in the industry make my career prospects bright. I am ready to take on the challenges that come my way and use my skills and knowledge to add value.
 
 
 # Status 📈
